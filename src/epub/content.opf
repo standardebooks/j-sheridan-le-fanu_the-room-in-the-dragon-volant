@@ -46,7 +46,6 @@
 		<meta property="se:production-notes">This story was originally published as part of a Standard Ebooks edition of the collection </meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-sheridan-le-fanu_the-room-in-the-dragon-volant</meta>
 		<dc:creator id="author">J. Sheridan Le Fanu</dc:creator>
 		<meta property="file-as" refines="#author">Le Fanu, J. Sheridan</meta>

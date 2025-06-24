@@ -39,7 +39,7 @@
 		<dc:description id="description">An English traveller in France encounters a mysterious woman and becomes involved in a dangerous intrigue at an old country inn.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;First published in his collection &lt;cite&gt;In a Glass Darkly,&lt;/cite&gt; this novella tells the story of a young, wealthy Englishman traveling in France, who meets a beautiful but mysterious woman and is drawn into a plot involving spycraft, diamonds, and revenge.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;Sheridan Le Fanu&lt;/a&gt; is best remembered as the master of the ghost story. &lt;cite&gt;The Room at the Dragon Volant&lt;/cite&gt; reminds the reader that Le Fanu was also a master of the gothic, with an intricate, closely plotted story and some of his most atmospheric writing.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;J. Sheridan Le Fanu&lt;/a&gt; is best remembered as the master of the ghost story. &lt;cite&gt;The Room at the Dragon Volant&lt;/cite&gt; reminds the reader that Le Fanu was also a master of the gothic, with an intricate, closely plotted story and some of his most atmospheric writing.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37172</dc:source>

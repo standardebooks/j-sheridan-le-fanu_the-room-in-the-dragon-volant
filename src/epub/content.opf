@@ -38,8 +38,9 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">An English traveller in France encounters a mysterious woman and becomes involved in a dangerous intrigue at an old country inn.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;First published in his collection &lt;cite&gt;In a Glass Darkly,&lt;/cite&gt; this novella tells the story of a young, wealthy Englishman traveling in France, who meets a beautiful but mysterious woman and is drawn into a plot involving spycraft, diamonds, and revenge.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;J. Sheridan Le Fanu&lt;/a&gt; is best remembered as the master of the ghost story. &lt;cite&gt;The Room at the Dragon Volant&lt;/cite&gt; reminds the reader that Le Fanu was also a master of the gothic, with an intricate, closely plotted story and some of his most atmospheric writing.&lt;/p&gt;
+			&lt;p&gt;First published in his collection &lt;cite&gt;In a Glass Darkly,&lt;/cite&gt; this gothic novella contains some of &lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;J. Sheridan Le Fanu’s&lt;/a&gt; most atmospheric writing.&lt;/p&gt;
+			&lt;p&gt;A young, wealthy Englishman goes traveling in France and Belgium in 1815, with the continent still reeling from the Napoleonic wars, and is quickly surrounded by characters who may not be exactly what they seem: a beautiful young countess with a cruel husband; an elegant gentleman involved in delicate political intrigue; a violent, ugly old soldier, bent on revenge; and a fortuneteller who seems to know everything about his affairs.&lt;/p&gt;
+			&lt;p&gt;Le Fanu pulls these threads together into a an intricately plotted mystery, with the sinister atmosphere of Le Fanu’s better known ghost stories. It is full of fascinating characters and evocative locations, from a rural village hostelry to a masked ball at the Palace of Versailles to the mysterious haunted inn called the Dragon Volant.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37172</dc:source>

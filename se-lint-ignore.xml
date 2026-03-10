@@ -2,6 +2,8 @@
 <se-lint-ignore>
 	<file path="chapter-5.xhtml">
 		<ignore code="t-017">
+			<line>45</line>
+			<line>47</line>
 			<reason>Matches are in fact complete clauses.</reason>
 		</ignore>
 	</file>

@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">sh98004865</meta>
 		<meta property="schema:genre">Horror</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:abstract>After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.</dc:abstract>
+		<meta property="schema:abstract">After an Englishman traveling in France meets a mysterious woman, he becomes embroiled in a dangerous intrigue.</meta>
 		<dc:description>
 			&lt;p&gt;First published in his collection &lt;cite&gt;In a Glass Darkly,&lt;/cite&gt; this gothic novella contains some of &lt;a href="https://standardebooks.org/ebooks/j-sheridan-le-fanu"&gt;J. Sheridan Le Fanu’s&lt;/a&gt; most atmospheric writing.&lt;/p&gt;
 			&lt;p&gt;In 1815 Europe is still reeling from the Napoleonic wars. A young, wealthy Englishman goes traveling to France and Belgium, and is quickly surrounded by characters who may not be exactly what they seem: a beautiful young countess with a cruel husband, an elegant gentleman involved in delicate political intrigue, a violent, ugly old soldier bent on revenge, and a fortuneteller who seems to know everything about his affairs.&lt;/p&gt;
